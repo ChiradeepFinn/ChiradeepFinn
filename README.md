@@ -21,7 +21,7 @@
 </div>
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/ChiradeepFinn/ChiradeepFinn/main/divider.gif"
+    src="https://raw.githubusercontent.com/ChiradeepFinn/ChiradeepFinn/main/Cdivider.gif"
     width="100%"
     alt="Animated section divider"
   />
@@ -58,7 +58,7 @@ Some days, I'm building software or experimenting with AI. Other days, I'm produ
 **Website:** <a href="https://chiradeep.me">chiradeep.me</a>
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/ChiradeepFinn/ChiradeepFinn/main/divider.gif"
+    src="https://raw.githubusercontent.com/ChiradeepFinn/ChiradeepFinn/main/Cdivider.gif"
     width="100%"
     alt="Animated section divider"
   />
@@ -95,7 +95,7 @@ Some days, I'm building software or experimenting with AI. Other days, I'm produ
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/ChiradeepFinn/ChiradeepFinn/main/divider.gif"
+    src="https://raw.githubusercontent.com/ChiradeepFinn/ChiradeepFinn/main/Cdivider.gif"
     width="100%"
     alt="Animated section divider"
   />
@@ -115,7 +115,7 @@ Investigating the relationship between AI-assisted ideation, creative originalit
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/ChiradeepFinn/ChiradeepFinn/main/divider.gif"
+    src="https://raw.githubusercontent.com/ChiradeepFinn/ChiradeepFinn/main/Cdivider.gif"
     width="100%"
     alt="Animated section divider"
   />
@@ -138,7 +138,7 @@ I'm interested in what they can teach each other — and what becomes possible w
 </div>
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/ChiradeepFinn/ChiradeepFinn/main/divider.gif"
+    src="https://raw.githubusercontent.com/ChiradeepFinn/ChiradeepFinn/main/Cdivider.gif"
     width="100%"
     alt="Animated section divider"
   />
