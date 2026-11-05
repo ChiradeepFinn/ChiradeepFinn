@@ -1,8 +1,16 @@
-# Hey, I'm Chiradeep Finn 👋
+<h1 align="center">Hey, I'm Chiradeep 👋</h1>
 
 <div align="center">
   <img src="banner.png" width="100%" alt="Chiradeep's GitHub profile banner">
 </div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Student+Developer;Exploring+Artificial+Intelligence;Building+Creative+Software;Writer+%7C+Music+Producer+%7C+Visual+Artist;Always+learning%2C+always+building." alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://chiradeep.me">Portfolio</a> •
+  <a href="https://github.com/ChiradeepFinn">GitHub</a>
+</p>
 
 ### Building at the intersection of code, intelligence, and creativity.
 
