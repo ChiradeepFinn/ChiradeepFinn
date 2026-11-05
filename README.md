@@ -1,5 +1,9 @@
 # Hey, I'm Chiradeep Finn 👋
 
+<div align="center">
+  <img src="banner.png" width="100%" alt="Chiradeep's GitHub profile banner">
+</div>
+
 ### Building at the intersection of code, intelligence, and creativity.
 
 I'm a student developer who enjoys exploring what happens when technology meets creative expression.
