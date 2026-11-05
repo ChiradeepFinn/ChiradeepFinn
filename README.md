@@ -1,100 +1,130 @@
-<h1 align="center">Hey, I'm Chiradeep 👋</h1>
+<h1>Hey👋 Welcome!!!</h1>
+<div align="center">
+  <img src="banner.png" width="100%" alt="Chiradeep — Building at the intersection of code, intelligence, and creativity." />
+</div>
+
+<br/>
 
 <div align="center">
-  <img src="banner.png" width="100%" alt="Chiradeep's GitHub profile banner">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=39D353&center=true&vCenter=true&width=650&lines=student+%40+the+intersection+of+disciplines;exploring+artificial+intelligence;building+software+and+creative+tools;writing+%7C+music+%7C+research+%7C+visual+art;curiosity+%3E+convention" alt="Animated introduction" />
+
+<br/>
+
+<a href="https://chiradeep.me">
+  <img src="https://img.shields.io/badge/PORTFOLIO-chiradeep.me-0D1117?style=for-the-badge&logo=vercel&logoColor=39D353" alt="Portfolio"/>
+</a>
+<a href="https://github.com/ChiradeepFinn">
+  <img src="https://img.shields.io/badge/GITHUB-follow-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="GitHub"/>
+</a>
+
 </div>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Student+Developer;Exploring+Artificial+Intelligence;Building+Creative+Software;Writer+%7C+Music+Producer+%7C+Visual+Artist;Always+learning%2C+always+building." alt="Typing SVG" />
+
+<h2><code>01.</code> &nbsp; WHO AM I?</h2>
+
+I'm a student developer interested in what happens when technology meets creative expression.
+
+Some days, I'm building software or experimenting with AI. Other days, I'm producing music, writing, researching, or exploring photography. I'm interested in the connections between these disciplines — and in turning the ideas that emerge into real things.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Technical_interests:</h3>
+      <ul>
+        <li>Artificial intelligence & machine learning</li>
+        <li>Software and web development</li>
+        <li>Creative technology</li>
+        <li>Data analysis and research</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Creative_interests:</h3>
+      <ul>
+        <li>Music production and sound</li>
+        <li>Photography and visual storytelling</li>
+        <li>Creative writing</li>
+        <li>Visual art and experimentation</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+**Website:** <a href="https://chiradeep.me">chiradeep.me</a>
+
+<h2><code>02.</code> &nbsp; TECH STACK</h2>
+
+**SOFTWARE_ENGINEERING**
+
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,html,css,js" alt="Web development technologies"/>
 </p>
 
-<p align="center">
-  <a href="https://chiradeep.me">Portfolio</a> •
-  <a href="https://github.com/ChiradeepFinn">GitHub</a>
+**AI_AND_DATA**
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,anaconda" alt="AI and data technologies"/>
 </p>
 
-### Building at the intersection of code, intelligence, and creativity.
+**DEVELOPMENT_ENVIRONMENT**
 
-I'm a student developer who enjoys exploring what happens when technology meets creative expression.
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vercel,supabase" alt="Development tools"/>
+</p>
 
-Some days, I'm building software or experimenting with AI. Other days, I'm producing music, writing, researching, or exploring photography. I'm interested in the connections between these disciplines—and in turning the ideas that emerge into real things.
+**CREATIVE_ENVIRONMENT**
 
-- 🧠 Exploring AI, machine learning, and creative technology
-- 💻 Building software and experimenting with new ideas
-- 🎧 Producing music and exploring the relationship between sound and emotion
-- 📷 Interested in photography, visual storytelling, and art
-- ✍️ Writing, researching, and documenting what I learn
+<p>
+<img src="https://img.shields.io/badge/BandLab-0D1117?style=flat-square&logo=bandlab&logoColor=F1C40F"/>
+<img src="https://img.shields.io/badge/Photography-0D1117?style=flat-square&logo=canon&logoColor=white"/>
+<img src="https://img.shields.io/badge/Creative_Writing-0D1117?style=flat-square&logo=readthedocs&logoColor=white"/>
+</p>
 
-**Website:** [chiradeep.me](https://chiradeep.me)
-
----
-
-## 🚧 What I'm Building
-
-### SIDEQUEST
-Exploring how AI can turn real-world creativity into meaningful missions and experiences.
-
-### SYNESTHESIA
-Experimenting with connections between music, imagery, writing, emotion, and AI.
-
-### FRAMEWORK
-Exploring AI-assisted photography, image selection, sequencing, and visual storytelling.
-
-### PATH
-Developing ideas around personalized learning roadmaps and deciding what to learn next.
-
-### STEM
-Exploring tools and workflows for music production, vocal takes, versions, and mixes.
+<sub>Technology icons represent tools used or explored. Individual libraries and frameworks are not necessarily used in every project.</sub>
 
 ---
 
-## 🛠️ Technologies & Tools
+<h2><code>03.</code> &nbsp; RESEARCH & WRITING</h2>
 
-**Web development**
-- Next.js
-- React
-- TypeScript
-- Tailwind CSS
-
-**AI & research**
-- Python
-- Google Colab
-- Machine learning and data analysis
-
-**Creative work**
-- BandLab
-- Photography
-- Writing and visual art
-
-*This list reflects tools I've used or explored; I'll expand it as my projects evolve.*
-
----
-
-## 🔬 Research & Writing
 
 I'm interested in investigating how machine learning understands music and how AI influences human creativity.
 
-My current research directions include:
+**AI-Assisted Creativity:**
 
-- **Music Emotion Recognition** — evaluating machine-learning models across instrumental and vocal audio.
-- **AI-Assisted Creativity** — investigating the effects of AI-assisted ideation on human creative originality and ownership.
+*Beyond the Prompt: Measuring the Effects of AI-Assisted Ideation on Human Creative Originality and Ownership.*
 
-These are research projects in development. I'll share their methodology, experiments, findings, and reproducible materials as the work progresses.
+Investigating the relationship between AI-assisted ideation, creative originality, and human ownership.
+
+<sub>These research directions are at different stages of development. I'll share methodology, experiments, findings, and reproducible materials as the work progresses.</sub>
 
 ---
 
-## 🎨 Beyond Code
+<h2><code>04.</code> &nbsp; BEYOND THE TERMINAL</h2>
 
 I don't see software, music, writing, and visual art as completely separate worlds.
 
-I'm interested in what they can teach each other—and what becomes possible when they overlap.
+I'm interested in what they can teach each other — and what becomes possible when they overlap.
 
----
+<code>sound + code + ideas + images = something unexpected</code>
 
-## 🌐 Find Me Online
+<h2><code>05.</code> &nbsp; GITHUB ANALYTICS</h2>
 
-- **Portfolio:** [chiradeep.me](https://chiradeep.me)
-- **GitHub:** [@ChiradeepFinn](https://github.com/ChiradeepFinn)
+<div align="center">
 
----
+<img width="70%" src="https://streak-stats.demolab.com?user=ChiradeepFinn&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub contribution streak"/>
 
-*Curious by nature. Building across code, sound, words, and pixels.*
+</div>
+
+<h2><code>06.</code> &nbsp; FIND ME ONLINE</h2>
+
+<div align="center">
+
+<a href="https://chiradeep.me">
+  <img src="https://img.shields.io/badge/Website-chiradeep.me-0D1117?style=for-the-badge&logo=googlechrome&logoColor=39D353"/>
+</a>
+<a href="https://github.com/ChiradeepFinn">
+  <img src="https://img.shields.io/badge/GitHub-ChiradeepFinn-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<sub>Thanks for stopping by. Have a good one✌.</sub>
+
+</div>
