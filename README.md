@@ -34,23 +34,36 @@ Some days, I'm building software or experimenting with AI. Other days, I'm produ
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>Technical_interests:</h3>
-      <ul>
-        <li>Artificial intelligence & machine learning</li>
-        <li>Software and web development</li>
-        <li>Creative technology</li>
-        <li>Data analysis and research</li>
-      </ul>
+    <td width="78%" valign="top">
+      <table>
+        <tr>
+          <td width="50%" valign="top">
+            <h3>Technical_interests:</h3>
+            <ul>
+              <li>Artificial intelligence & machine learning</li>
+              <li>Software and web development</li>
+              <li>Creative technology</li>
+              <li>Data analysis and research</li>
+            </ul>
+          </td>
+          <td width="50%" valign="top">
+            <h3>Creative_interests:</h3>
+            <ul>
+              <li>Music production and sound</li>
+              <li>Photography and visual storytelling</li>
+              <li>Creative writing</li>
+              <li>Visual art and experimentation</li>
+            </ul>
+          </td>
+        </tr>
+      </table>
     </td>
-    <td width="50%" valign="top">
-      <h3>Creative_interests:</h3>
-      <ul>
-        <li>Music production and sound</li>
-        <li>Photography and visual storytelling</li>
-        <li>Creative writing</li>
-        <li>Visual art and experimentation</li>
-      </ul>
+    <td width="22%" align="center" valign="middle">
+      <img
+        src="https://raw.githubusercontent.com/ChiradeepFinn/ChiradeepFinn/main/wave-hi.gif"
+        width="160"
+        alt="Waving hello character"
+      />
     </td>
   </tr>
 </table>
